@@ -12,7 +12,7 @@ cd "${wkdir}"
 ls "${input_fastq}" > input.fofn
 
 # Run nextDenovo in the working directory
-nextDenovo run.cfg
+nextDenovo assembly_config.cfg
 
 # Deactivate nextDenovo Conda Environment
 conda deactivate
