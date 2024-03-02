@@ -17,7 +17,7 @@ conda activate nextdenovo
 # Run nextPolish for short reads only
 cd "${wkdir}"
 ls "${short_reads1}" "${short_reads2}" > sgs.fofn
-nextPolish run.cfg
+nextPolish short_reads_polishing_config.cfg
 
 # Run nextPolish for long reads only
 ls "${long_reads1}" "${long_reads2}" > lgs.fofn
