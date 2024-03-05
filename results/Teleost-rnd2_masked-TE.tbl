@@ -1,0 +1,59 @@
+==================================================
+file name: Teleost-input.fasta.masked
+sequences:           172
+total length:  497496118 bp  (497496118 bp excl N/X-runs)
+GC level:         42.91 %
+bases masked:   28790503 bp ( 5.79 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        21497      6330303 bp    1.27 %
+   SINEs:             1075        90071 bp    0.02 %
+   Penelope:             2           90 bp    0.00 %
+   LINEs:            11186      3365210 bp    0.68 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       5510      1467678 bp    0.30 %
+     R1/LOA/Jockey     486        77332 bp    0.02 %
+     R2/R4/NeSL        139        50919 bp    0.01 %
+     RTE/Bov-B        2537      1184086 bp    0.24 %
+     L1/CIN4          1734       392925 bp    0.08 %
+   LTR elements:      9236      2875022 bp    0.58 %
+     BEL/Pao           993       797730 bp    0.16 %
+     Ty1/Copia          32        33177 bp    0.01 %
+     Gypsy/DIRS1      4556      1539336 bp    0.31 %
+       Retroviral     1440       187971 bp    0.04 %
+
+DNA transposons      44037      4745905 bp    0.95 %
+   hobo-Activator    13648      1391718 bp    0.28 %
+   Tc1-IS630-Pogo     4298       793343 bp    0.16 %
+   En-Spm                0            0 bp    0.00 %
+   MULE-MuDR           443        33856 bp    0.01 %
+   PiggyBac            790        95661 bp    0.02 %
+   Tourist/Harbinger  2665       373624 bp    0.08 %
+   Other (Mirage,     1397       189254 bp    0.04 %
+    P-element, Transib)
+
+Rolling-circles       2069       320239 bp    0.06 %
+
+Unclassified:          372        75857 bp    0.02 %
+
+Total interspersed repeats:    11152155 bp    2.24 %
+
+
+Small RNA:            1467       118522 bp    0.02 %
+
+Satellites:            767       148797 bp    0.03 %
+Simple repeats:     335378     14832145 bp    2.98 %
+Low complexity:      41559      2219040 bp    0.45 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be Teleost fish  
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.14.0+
+FamDB: CONS-Dfam_3.7
