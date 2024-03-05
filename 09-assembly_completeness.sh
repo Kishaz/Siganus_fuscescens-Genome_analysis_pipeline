@@ -2,8 +2,8 @@
 
 # Replace [busco_environment], [input_fasta], [output_directory], and [busco_lineage] with actual values
 busco_environment="busco5.4.3"
-input_fasta="/path/to/your/flye_5000_2iter/assembly.fasta"
-output_directory="/path/to/your/busco_output/busco_5000_2iter"
+input_fasta="/path/to/your/assembly.fasta"
+output_directory="/path/to/your/busco_output"
 busco_lineage="actinopterygii_odb10"
 cpu_threads=30
 
