@@ -1,1 +1,1 @@
-BUSCO output.
+some results from the analysis.
