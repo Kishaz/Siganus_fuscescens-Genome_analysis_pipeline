@@ -37,9 +37,13 @@ Raw data can be accessed through the DDBJ Reads Archive under BioProject- PRJDB1
 - **Description:** Script for denovo assembly.
 - **Usage:** `./07-denovo_assembly.sh`
 
-### 08-assembly_stats.sh
+### 08.0-assembly_stats.sh
 - **Description:** Script for obtaining assembly statistics.
-- **Usage:** `./08-assembly_stats.sh`
+- **Usage:** `./08.0-assembly_stats.sh`
+
+### 08.1-assembly_accuracy.sh
+- **Description:** Script for evaluating assembly accuracy.
+- **Usage:** `./08.1-assembly_accuracy.sh`
 
 ### 09-assembly_completeness.sh
 - **Description:** Script for assessing assembly completeness.
