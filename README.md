@@ -77,6 +77,5 @@ Raw data can be accessed through the DDBJ Reads Archive under BioProject- PRJDB1
 - **Description:** Script for assembling the mitogenome.
 - **Usage:** `./16-mitogenome_assembly.sh`
 
-**If you find the approach or the data useful:**
-**Cite this article**
+**If you find the approach or the data useful, Cite this article: **
 Mwamburi, S.M., Kawato, S., Furukawa, M. et al. De Novo Assembly and Annotation of the Siganus fuscescens (Houttuyn, 1782) Genome: Marking a Pioneering Advance for the Siganidae Family. Mar Biotechnol (2024). https://doi.org/10.1007/s10126-024-10325-9
