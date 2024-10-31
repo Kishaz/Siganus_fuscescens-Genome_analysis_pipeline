@@ -1,7 +1,7 @@
 # Genome Analysis Pipeline
 
-This repository contains scripts for various steps in the genome analysis pipeline used for the de novo assembly and annotation of the Siganus fuscescens whole genome.
-Raw data can be accessed through the DDBJ Reads Archive under BioProject- PRJDB15411. 
+This repository contains scripts for various steps in the genome analysis pipeline used for the de novo assembly and annotation of the *Siganus fuscescens* whole genome.
+Raw data can be accessed through the NCBI under **BioProject - PRJDB15411**. 
 
 ## Scripts
 
